@@ -1,3 +1,14 @@
 .winner {
 	color:green;
 }
+.done {
+	text-decoration: line-through;
+	opacity: 0.5;
+}
+body{
+	max-width: 60%;
+	background-color: rgb(195, 195, 195);
+	border:2px solid rgb(69, 69, 69);
+	padding: 50px;
+	margin: auto;
+}
